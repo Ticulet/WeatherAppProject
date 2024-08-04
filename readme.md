@@ -20,4 +20,4 @@ A desktop weather application built with Java Swing that provides real-time weat
 2. Click the search button or press Enter
 3. View the current weather information for the specified location
 
-This project demonstrates API integration, JSON parsing, and GUI development in Java, making it an excellent learning resource for intermediate Java developers.
+This project demonstrates API integration, JSON parsing, and GUI development in Java.
